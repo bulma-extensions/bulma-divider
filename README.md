@@ -2,4 +2,4 @@
 
 This 3rd-party component for bulma.io is now officially maintianed by [creativebulma/bulma-divider](https://github.com/creativebulma/bulma-divider/).
 
-The component was originally created by Wikiki.  For a brief description of the project's history see (https://github.com/bulma-extensions/bulma---projecthistory/blob/main/README.md)[here].
+The component was originally created by Wikiki.  For a brief description of the project's history see [here](https://github.com/bulma-extensions/bulma---projecthistory/blob/main/README.md).
